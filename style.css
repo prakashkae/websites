@@ -1,20 +1,8 @@
-h1 {
-    color: red;
-}
-
-p {
+#box {
     color: blue;
+    background-color: blue;
 }
 
-button {
-    color: green;
-}
-
-body {
-    background-color: rgb(144, 187, 168);
-}
-
-button {
-    background-color: #00ff00;
-
+.heading {
+    color: red;
 }
