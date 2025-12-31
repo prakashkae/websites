@@ -1,5 +1,14 @@
 div {
-    height: 300px;
-    background-color: pink;
+    height: 100px;
     width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+
+#one {
+    background-color: red;
+}
+
+#two {
+    background-color: yellow;
 }
